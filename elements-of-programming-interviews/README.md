@@ -12,9 +12,9 @@ Each folder (other than the folders starting with `_`) represents a chapter in t
 
 Each chapter folder consists of an `README.md` file in a standard format as below.
 
-        | File Name | Page Number | Description                            |
-        | --------- | ----------- | ---------------------------------------
-        | SharePriceCalculator.java | 1 | Share price calculator| 
+    | File Name | Page Number | Description                            |
+    | --------- | ----------- | ---------------------------------------
+    | SharePriceCalculator.java | 1 | Share price calculator| 
 
 
 Each chapter contains several programming challenges and each will be indexed and referred properly.
